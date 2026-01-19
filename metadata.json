@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Multi-Agent Dashboard",
+  "description": "A collaborative software development dashboard featuring an AI Orchestrator that coordinates Architect, Coder, QA, and Security agents to build full-stack requirements.",
+  "requestFramePermissions": []
+}
